@@ -1,0 +1,47 @@
+# Shanutech Brand & Repository License
+
+Copyright (c) 2026 Shanutech
+
+All rights reserved.
+
+## Permission
+
+Permission is granted to view, fork, and use the source code contained in this repository for personal, educational, and non-commercial purposes, subject to the conditions below.
+
+## Restrictions
+
+The following items remain the exclusive property of Shanutech and are NOT licensed for reuse:
+
+* Shanutech name
+* Shanutech logos
+* Shanutech trademarks
+* Brand assets
+* Marketing materials
+* Company graphics
+* Company icons
+* Domain names associated with Shanutech
+* Any other branding elements contained within this repository
+
+You may NOT:
+
+* Use the Shanutech name to imply endorsement or affiliation.
+* Use, modify, redistribute, or reproduce Shanutech logos or trademarks.
+* Create derivative branding based on Shanutech assets.
+* Sell copies of this repository or its contents without written permission.
+* Represent yourself as Shanutech or an official Shanutech partner.
+
+## Commercial Use
+
+Commercial use of the source code or any repository assets requires prior written permission from Shanutech.
+
+## Contributions
+
+By submitting a contribution, you grant Shanutech a perpetual, worldwide, non-exclusive, royalty-free license to use, modify, and distribute your contribution.
+
+## Trademark Notice
+
+"Shanutech" and all associated logos, graphics, and brand assets are trademarks or proprietary property of Shanutech. No license to these trademarks is granted by this repository.
+
+## Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
